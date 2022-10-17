@@ -1,12 +1,65 @@
 .ipynb_checkpoints
-__pycache__/*
-1-Ramp Up/1-Python/3-Colecciones
-1-Ramp Up/1-Python/4-Funciones
-1-Ramp Up/1-Python/5-OOP
-1-Ramp Up/1-Python/6-Modulos
-1-Ramp Up/1-Python/7-Programacion funcional
-1-Ramp Up/1-Python/ejercicios
-1-Ramp Up/1-Python/examen
-1-Ramp Up/1-Python/material_extra
+__pycache__
 
+
+############# 1- Ramp-Up #############
+# 1-Ramp Up/1-Python/0-Markdown
+# 1-Ramp Up/1-Python/3-Colecciones
+# 1-Ramp Up/1-Python/4-Funciones
+# 1-Ramp Up/1-Python/5-OOP
+# 1-Ramp Up/1-Python/6-Modulos
+1-Ramp Up/1-Python/7-Programacion funcional
+# 1-Ramp Up/1-Python/ejercicios
+# 1-Ramp Up/1-Python/examen
+1-Ramp Up/1-Python/material_extra
 1-Ramp Up/SVL_marzo_examen_rampup
+
+############# 2- Data Analysis #############
+2-Data Analysis/0-Matematicas para Data Science
+
+## Pandas
+# 2-Data Analysis/2-Pandas
+# 2-Data Analysis/2-Pandas/Teoria/2_Data-Indexing-and-Selection.ipynb
+# 2-Data Analysis/2-Pandas/Teoria/3_Operations-in-Pandas.ipynb
+# 2-Data Analysis/2-Pandas/Teoria/4_Handling-Missing-Data.ipynb
+2-Data Analysis/2-Pandas/Teoria/5_Hierarchical-Indexing.ipynb
+# 2-Data Analysis/2-Pandas/Teoria/6.Concat-And-Append.ipynb
+2-Data Analysis/2-Pandas/Teoria/7.Merge-and-Join.ipynb
+2-Data Analysis/2-Pandas/Teoria/8.Aggregation-and-Grouping.ipynb
+2-Data Analysis/2-Pandas/Teoria/9.Pivot-Tables.ipynb
+2-Data Analysis/2-Pandas/Teoria/10.Working-With-Strings.ipynb
+2-Data Analysis/2-Pandas/Teoria/11.Working-with-Time-Series.ipynb
+2-Data Analysis/2-Pandas/Teoria/12.Performance-Eval-and-Query.ipynb
+
+# 2-Data Analysis/2-Pandas/Teoria/PROF_1_Introducing-Pandas-Objects.ipynb
+# 2-Data Analysis/2-Pandas/Teoria/PROF_2_Data-Indexing-and-Selection.ipynb
+# 2-Data Analysis/2-Pandas/Teoria/PROF_4_Handling-Missing-Data.ipynb
+# 2-Data Analysis/2-Pandas/Teoria/PROF_6.Concat-And-Append.ipynb
+2-Data Analysis/2-Pandas/Teoria/PROF_7.Merge-and-Join.ipynb
+2-Data Analysis/2-Pandas/Teoria/PROF_8.Aggregation-and-Grouping.ipynb
+2-Data Analysis/2-Pandas/Teoria/PROF_9.Pivot-Tables.ipynb
+
+#### Pandas Ejercicios
+2-Data Analysis/2-Pandas/Ejercicios/03_Grouping
+2-Data Analysis/2-Pandas/Ejercicios/04_Apply
+2-Data Analysis/2-Pandas/Ejercicios/05_Merge
+2-Data Analysis/2-Pandas/Ejercicios/06_Stats
+2-Data Analysis/2-Pandas/Ejercicios/07_Visualization
+2-Data Analysis/2-Pandas/Ejercicios/material_extra
+
+2-Data Analysis/3-Visualizacion
+2-Data Analysis/4-Feature Engineering!!!
+2-Data Analysis/5-Data Sources
+2-Data Analysis/6-SQL!!!
+2-Data Analysis/6-SQL!!!_orig
+2-Data Analysis/Proyecto-EDA
+# 2-Data Analysis/Proyecto-HLF
+2-Data Analysis/sql_thebridge
+2-Data Analysis/2-Pandas/Ejercicios/01_Getting_&_Knowing_Your_Data/Occupation/PROF_Occupation.ipynb
+2-Data Analysis/2-Pandas/Ejercicios/01_Getting_&_Knowing_Your_Data/Occupation/SOL_Occupation.ipynb
+2-Data Analysis/2-Pandas/Ejercicios/01_Getting_&_Knowing_Your_Data/World Food Facts/PROF_World Food Facts.ipynb
+2-Data Analysis/2-Pandas/Ejercicios/01_Getting_&_Knowing_Your_Data/World Food Facts/SOL_World Food Facts.ipynb
+2-Data Analysis/2-Pandas/Ejercicios/02_Filtering_&_Sorting/Chipotle/PROF_Chipotle.ipynb
+2-Data Analysis/2-Pandas/Ejercicios/02_Filtering_&_Sorting/Euro12/PROF_Euro12.ipynb
+2-Data Analysis/2-Pandas/Ejercicios/02_Filtering_&_Sorting/Fictional Army/PROF_Fictional Army.ipynb
+2-Data Analysis/2-Pandas/Ejercicios/02_Filtering_&_Sorting/Fictional Army/SOL_Fictional Army.ipynb
