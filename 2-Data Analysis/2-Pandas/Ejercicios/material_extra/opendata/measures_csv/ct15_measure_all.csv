@@ -1,0 +1,28 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Clorobenceno;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Trans-1.3 Dicloropropeno;-;<;0.1;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Cis-1.3 Dicloropropeno;-;<;0.1;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.2 Dicloropropano;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Tetracloruro de carbono;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Diclorometano;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.2-Dicloroetano;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.1.1-Tricloroetano-Metilcloroformo;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.1.2 Tricloroetano;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.1.2.2 Tetracloroetano;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Tetracloroetileno (percloroetileno);-;=;0.6;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Tricloroetileno;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Cis-1.2 Dicloroeteno;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Trans-1.2 Dicloroeteno;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.1 Dicloroeteno;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Bromoformo-Tribromometano;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Dibromoclorometano;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Bromodiclorometano;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Triclorometano (cloroformo);-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Oxígeno disuelto;-;=;30.3;mg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Conductividad;-;=;704;µS/cm;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Temperatura del agua;-;=;16.1;ºC;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.1 Dicloroetano;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Cloruro de vinilo;-;<;0.1;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.2-Diclorobenceno=o-Diclorobenceno;-;<;500;ng/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.4-Diclorobenceno=p-Diclorobenceno;-;<;0.5;µg/l;;-;-;0
+CT15;15/02/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.3-Diclorobenceno=m-Diclorobenceno;-;<;0.5;µg/l;;-;-;0

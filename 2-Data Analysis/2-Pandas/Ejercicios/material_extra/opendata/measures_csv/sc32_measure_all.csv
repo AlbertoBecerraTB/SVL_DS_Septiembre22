@@ -1,0 +1,33 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Temperatura del agua;-;=;14.1;ºC;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Ortofosfato;-;<;0.031;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Amonio;-;<;0.064;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);pH;-;=;6.59;U. pH.;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Conductividad;-;=;122;µS/cm;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Residuo seco;-;<;200;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Sodio;-;=;6.55;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Potasio;-;=;0.8;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Calcio;-;=;17;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Magnesio;-;=;1.9;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Cloruros;-;=;10.7;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Sulfatos;-;<;3;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Carbonatos;-;<;1.2;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Bicarbonatos;-;=;59.7;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Nitrato;-;=;3;mg/l;;-;-;0
+SC32;18/01/2022;14:30;SONDEOS;Aguas (Fisicoquímica);Nitrito;-;<;0.02;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Temperatura del agua;-;=;15.1;ºC;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);pH;-;=;6.3;U. pH.;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Nitrito;-;<;0.02;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Nitrato;-;=;2.9;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Bicarbonatos;-;=;57.1;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Carbonatos;-;<;1.2;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Sulfatos;-;<;3;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Cloruros;-;=;10.6;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Magnesio;-;=;2;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Calcio;-;=;15;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Potasio;-;=;0.9;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Sodio;-;=;6.9;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Residuo seco;-;<;200;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Conductividad;-;=;123;µS/cm;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Ortofosfato;-;<;0.031;mg/l;;-;-;0
+SC32;08/03/2022;14:40;SONDEOS;Aguas (Fisicoquímica);Amonio;-;<;0.064;mg/l;;-;-;0

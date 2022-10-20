@@ -1,0 +1,33 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Ortofosfato;-;=;0.9;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Temperatura del agua;-;=;12.3;ºC;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Amonio;-;=;0.36;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Nitrito;-;=;0.14;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Nitrato;-;=;12.2;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Bicarbonatos;-;=;130;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Carbonatos;-;<;1.2;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Sulfatos;-;=;7.3;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Cloruros;-;=;7.37;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Magnesio;-;=;2.6;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Calcio;-;=;41;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Potasio;-;=;3.5;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Sodio;-;=;5.6;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Residuo seco;-;<;200;mg/l;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);Conductividad;-;=;233;µS/cm;;-;-;0
+SC27;12/01/2022;13:30;MANANTIALES;Aguas (Fisicoquímica);pH;-;=;8;U. pH.;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Amonio;-;=;2.5;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Nitrito;-;=;0.38;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);pH;-;=;7.8;U. pH.;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Conductividad;-;=;366;µS/cm;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Residuo seco;-;=;250;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Sodio;-;=;9;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Potasio;-;=;9;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Calcio;-;=;53;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Magnesio;-;=;4.8;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Cloruros;-;=;13;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Sulfatos;-;=;12;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Carbonatos;-;<;1.2;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Bicarbonatos;-;=;196;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Nitrato;-;=;19;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Ortofosfato;-;=;3.4;mg/l;;-;-;0
+SC27;08/03/2022;12:45;MANANTIALES;Aguas (Fisicoquímica);Temperatura del agua;-;=;12.2;ºC;;-;-;0

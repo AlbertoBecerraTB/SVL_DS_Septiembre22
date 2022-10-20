@@ -1,0 +1,8 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+L-1;03/03/2022;10:40;MANANTIALES;Aguas (Fisicoquímica);Amonio;-;<;0.064;mg/l;;-;-;0
+L-1;03/03/2022;10:40;MANANTIALES;Aguas (Fisicoquímica);Nitrito;-;<;0.02;mg/l;;-;-;0
+L-1;03/03/2022;10:40;MANANTIALES;Aguas (Fisicoquímica);Nitrato;-;=;58;mg/l;;-;-;0
+L-1;03/03/2022;10:40;MANANTIALES;Aguas (Fisicoquímica);Ortofosfato;-;<;0.031;mg/l;;-;-;0
+L-1;03/03/2022;10:40;MANANTIALES;Aguas (Fisicoquímica);pH;-;=;7.5;U. pH.;;-;-;0
+L-1;03/03/2022;10:40;MANANTIALES;Aguas (Fisicoquímica);Temperatura del agua;-;=;11.4;ºC;;-;-;0
+L-1;03/03/2022;10:40;MANANTIALES;Aguas (Fisicoquímica);Conductividad;-;=;1043;µS/cm;;-;-;0

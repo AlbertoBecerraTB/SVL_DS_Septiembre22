@@ -1,0 +1,8 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+SN52;03/03/2022;11:40;MANANTIALES;Aguas (Fisicoquímica);Temperatura del agua;-;=;11.2;ºC;;-;-;0
+SN52;03/03/2022;11:40;MANANTIALES;Aguas (Fisicoquímica);pH;-;=;7.3;U. pH.;;-;-;0
+SN52;03/03/2022;11:40;MANANTIALES;Aguas (Fisicoquímica);Conductividad;-;=;728;µS/cm;;-;-;0
+SN52;03/03/2022;11:40;MANANTIALES;Aguas (Fisicoquímica);Ortofosfato;-;<;0.031;mg/l;;-;-;0
+SN52;03/03/2022;11:40;MANANTIALES;Aguas (Fisicoquímica);Nitrito;-;<;0.02;mg/l;;-;-;0
+SN52;03/03/2022;11:40;MANANTIALES;Aguas (Fisicoquímica);Amonio;-;<;0.064;mg/l;;-;-;0
+SN52;03/03/2022;11:40;MANANTIALES;Aguas (Fisicoquímica);Nitrato;-;=;70;mg/l;;-;-;0

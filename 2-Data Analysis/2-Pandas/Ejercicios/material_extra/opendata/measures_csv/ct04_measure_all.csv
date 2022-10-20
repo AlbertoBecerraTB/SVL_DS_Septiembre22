@@ -1,0 +1,87 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+CT04;31/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.2;m;;-;-;0
+CT04;30/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.2;m;;-;-;0
+CT04;29/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.22;m;;-;-;0
+CT04;28/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.14;m;;-;-;0
+CT04;28/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.23;m;;-;-;0
+CT04;27/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.14;m;;-;-;0
+CT04;27/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.24;m;;-;-;0
+CT04;26/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.11;m;;-;-;0
+CT04;26/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.27;m;;-;-;0
+CT04;25/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.14;m;;-;-;0
+CT04;25/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.22;m;;-;-;0
+CT04;24/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.14;m;;-;-;0
+CT04;24/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.22;m;;-;-;0
+CT04;23/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.11;m;;-;-;0
+CT04;23/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.2;m;;-;-;0
+CT04;22/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.14;m;;-;-;0
+CT04;22/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.21;m;;-;-;0
+CT04;21/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.13;m;;-;-;0
+CT04;21/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.24;m;;-;-;0
+CT04;20/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.13;m;;-;-;0
+CT04;20/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.42;m;;-;-;0
+CT04;19/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.13;m;;-;-;0
+CT04;19/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.37;m;;-;-;0
+CT04;18/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.08;m;;-;-;0
+CT04;18/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.34;m;;-;-;0
+CT04;17/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.09;m;;-;-;0
+CT04;17/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.37;m;;-;-;0
+CT04;16/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.11;m;;-;-;0
+CT04;16/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.37;m;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);1.2 Dicloropropano;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Cis-1.3 Dicloropropeno;-;<;0.1;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Trans-1.3 Dicloropropeno;-;<;0.1;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Clorobenceno;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);1.3-Diclorobenceno=m-Diclorobenceno;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);1.4-Diclorobenceno=p-Diclorobenceno;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);1.2-Diclorobenceno=o-Diclorobenceno;-;<;500;ng/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Cloruro de vinilo;-;=;10;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);1.1 Dicloroetano;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Temperatura del agua;-;=;16.3;ºC;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Conductividad;-;=;1214;µS/cm;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Oxígeno disuelto;-;=;23.9;mg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Triclorometano (cloroformo);-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Bromodiclorometano;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Dibromoclorometano;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Bromoformo-Tribromometano;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);1.1 Dicloroeteno;-;=;1.7;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Trans-1.2 Dicloroeteno;-;=;3.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Tetracloruro de carbono;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Diclorometano;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);1.2-Dicloroetano;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);1.1.1-Tricloroetano-Metilcloroformo;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);1.1.2 Tricloroetano;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);1.1.2.2 Tetracloroetano;-;<;0.5;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Tetracloroetileno (percloroetileno);-;=;390;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Tricloroetileno;-;=;180;µg/l;;-;-;0
+CT04;15/02/2022;14:15;SONDEOS;Aguas (Fisicoquímica);Cis-1.2 Dicloroeteno;-;=;650;µg/l;;-;-;0
+CT04;15/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.18;m;;-;-;0
+CT04;15/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.31;m;;-;-;0
+CT04;14/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.18;m;;-;-;0
+CT04;14/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.3;m;;-;-;0
+CT04;13/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.15;m;;-;-;0
+CT04;13/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.34;m;;-;-;0
+CT04;12/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.17;m;;-;-;0
+CT04;12/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.45;m;;-;-;0
+CT04;11/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.2;m;;-;-;0
+CT04;11/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.98;m;;-;-;0
+CT04;10/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.2;m;;-;-;0
+CT04;10/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-2.54;m;;-;-;0
+CT04;09/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.21;m;;-;-;0
+CT04;09/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-2.83;m;;-;-;0
+CT04;08/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.18;m;;-;-;0
+CT04;08/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-2.35;m;;-;-;0
+CT04;07/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.2;m;;-;-;0
+CT04;07/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.55;m;;-;-;0
+CT04;06/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.2;m;;-;-;0
+CT04;06/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.68;m;;-;-;0
+CT04;05/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.2;m;;-;-;0
+CT04;05/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.87;m;;-;-;0
+CT04;04/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.19;m;;-;-;0
+CT04;04/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.3;m;;-;-;0
+CT04;03/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.19;m;;-;-;0
+CT04;03/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.33;m;;-;-;0
+CT04;02/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.19;m;;-;-;0
+CT04;02/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.36;m;;-;-;0
+CT04;01/02/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.2;m;;-;-;0
+CT04;01/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.37;m;;-;-;0

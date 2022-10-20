@@ -1,0 +1,17 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Calcio;-;=;70;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Cloruros;-;=;12;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Sodio;-;=;7.6;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Residuo seco;-;=;252;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Conductividad;-;=;356;µS/cm;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);pH;-;=;7.9;U. pH.;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Temperatura del agua;-;=;12;ºC;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Magnesio;-;=;3.8;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Ortofosfato;-;=;0.12;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Amonio;-;<;0.064;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Nitrito;-;<;0.02;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Nitrato;-;=;5.1;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Bicarbonatos;-;=;209;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Carbonatos;-;<;1.2;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Sulfatos;-;=;16;mg/l;;-;-;0
+SC11;08/02/2022;11:25;MANANTIALES;Aguas (Fisicoquímica);Potasio;-;=;1.7;mg/l;;-;-;0

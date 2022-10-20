@@ -1,0 +1,18 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Nitrato;-;=;3.6;mg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Nitrito;-;<;0.05;mg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Amonio;-;<;0.05;mg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Ortofosfato;-;<;0.05;mg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Arsénico;-;<;1;µg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Cadmio;-;<;0.5;µg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Mercurio;-;<;0.2;µg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Plomo;-;<;1;µg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);pH;-;=;7.9;U. pH.;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Conductividad;-;=;285;µS/cm;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Sodio;-;=;4.47;mg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Potasio;-;=;0.86;mg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Calcio;-;=;53.6;mg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Magnesio;-;=;1.85;mg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Cloruros;-;=;6.8;mg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Sulfatos;-;=;6.4;mg/l;;-;-;0
+SC16;15/02/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Bicarbonatos;-;=;157;mg/l;;-;-;0

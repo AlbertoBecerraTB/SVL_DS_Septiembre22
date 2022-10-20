@@ -1,0 +1,35 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Conductividad;-;=;175;µS/cm;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);pH;-;=;8;U. pH.;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Potasio;-;=;0.71;mg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Calcio;-;=;35.1;mg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Magnesio;-;=;1.14;mg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Cloruros;-;<;5;mg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Sulfatos;-;<;5;mg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Bicarbonatos;-;=;106;mg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Nitrato;-;=;2.2;mg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Nitrito;-;<;0.05;mg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Amonio;-;<;0.05;mg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Ortofosfato;-;<;0.05;mg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Arsénico;-;<;1;µg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Cadmio;-;<;0.5;µg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Plomo;-;<;1;µg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Mercurio;-;<;0.2;µg/l;;-;-;0
+SC58;11/01/2022;11:45;MANANTIALES;Aguas (Fisicoquímica);Sodio;-;=;1.48;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Cadmio;-;<;0.5;µg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);pH;-;=;8.2;U. pH.;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Conductividad;-;=;239;µS/cm;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Sodio;-;=;2.01;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Potasio;-;=;0.62;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Calcio;-;=;48.3;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Magnesio;-;=;1.66;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Cloruros;-;<;5;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Sulfatos;-;<;5;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Bicarbonatos;-;=;137;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Nitrato;-;=;3;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Nitrito;-;<;0.05;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Amonio;-;<;0.05;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Ortofosfato;-;<;0.05;mg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Arsénico;-;<;1;µg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Mercurio;-;<;0.2;µg/l;;-;-;0
+SC58;07/03/2022;11:20;MANANTIALES;Aguas (Fisicoquímica);Plomo;-;<;1;µg/l;;-;-;0

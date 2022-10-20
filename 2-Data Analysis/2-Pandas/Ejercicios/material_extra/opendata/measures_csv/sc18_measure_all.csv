@@ -1,0 +1,35 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Conductividad;-;=;984;µS/cm;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Mercurio;-;<;0.2;µg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Potasio;-;=;1.59;mg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Calcio;-;=;181;mg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Magnesio;-;=;17.2;mg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Cloruros;-;=;12.6;mg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Sulfatos;-;=;270;mg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Bicarbonatos;-;=;317;mg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Nitrato;-;<;0.5;mg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Nitrito;-;<;0.05;mg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Amonio;-;=;0.2;mg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Ortofosfato;-;<;0.05;mg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Arsénico;-;=;49;µg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Cadmio;-;<;0.5;µg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);pH;-;=;7.3;U. pH.;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Plomo;-;<;1;µg/l;;-;-;0
+SC18;11/01/2022;10:40;GALERÍAS;Aguas (Fisicoquímica);Sodio;-;=;18.9;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Ortofosfato;-;<;0.05;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Amonio;-;=;0.18;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Nitrito;-;<;0.05;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Nitrato;-;<;0.5;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Bicarbonatos;-;=;318;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Sulfatos;-;=;247;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Cloruros;-;=;13.5;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Magnesio;-;=;18.5;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Calcio;-;=;188;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Potasio;-;=;1.59;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Sodio;-;=;18.5;mg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Conductividad;-;=;989;µS/cm;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);pH;-;=;7.9;U. pH.;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Plomo;-;<;1;µg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Mercurio;-;<;0.2;µg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Arsénico;-;=;46;µg/l;;-;-;0
+SC18;07/03/2022;10:30;GALERÍAS;Aguas (Fisicoquímica);Cadmio;-;<;0.5;µg/l;;-;-;0

@@ -1,0 +1,17 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Temperatura del agua;-;=;12.1;ºC;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Ortofosfato;-;<;0.031;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Conductividad;-;=;639;µS/cm;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Residuo seco;-;=;420;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Sodio;-;=;14;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Potasio;-;=;1.3;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Calcio;-;=;130;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Magnesio;-;=;9;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Cloruros;-;=;12;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Sulfatos;-;=;65;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Carbonatos;-;<;1.2;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Bicarbonatos;-;=;345;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Nitrato;-;=;11;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Nitrito;-;<;0.02;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);Amonio;-;<;0.064;mg/l;;-;-;0
+SC23;03/02/2022;11:45;SONDEOS;Aguas (Fisicoquímica);pH;-;=;7.4;U. pH.;;-;-;0

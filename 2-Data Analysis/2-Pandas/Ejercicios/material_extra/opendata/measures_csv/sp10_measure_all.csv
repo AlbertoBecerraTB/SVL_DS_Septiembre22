@@ -1,0 +1,12 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+SP10;11/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;3.34;m;;-;-;0
+SP10;10/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;0.85;m;;-;-;0
+SP10;09/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-4.69;m;;-;-;0
+SP10;08/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-5.31;m;;-;-;0
+SP10;07/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-4.57;m;;-;-;0
+SP10;06/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-3.78;m;;-;-;0
+SP10;05/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-3.23;m;;-;-;0
+SP10;04/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-2.52;m;;-;-;0
+SP10;03/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-1.53;m;;-;-;0
+SP10;02/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;-0.58;m;;-;-;0
+SP10;01/01/2022;00:00;SONDEOS;Aguas (Piezometría);Nivel piezométrico medio diario;-;=;0.23;m;;-;-;0

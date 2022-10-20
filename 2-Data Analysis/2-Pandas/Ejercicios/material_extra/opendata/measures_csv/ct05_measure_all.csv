@@ -1,0 +1,135 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Triclorometano (cloroformo);-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Bromodiclorometano;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Dibromoclorometano;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Bromoformo-Tribromometano;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.1 Dicloroeteno;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Trans-1.2 Dicloroeteno;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Cis-1.2 Dicloroeteno;-;=;13.2;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Tricloroetileno;-;=;2.2;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Tetracloroetileno (percloroetileno);-;=;4.6;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.1.2.2 Tetracloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.1.2 Tricloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.1.1-Tricloroetano-Metilcloroformo;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.2-Dicloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Diclorometano;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Tetracloruro de carbono;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.2 Dicloropropano;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Cis-1.3 Dicloropropeno;-;<;0.1;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Trans-1.3 Dicloropropeno;-;<;0.1;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Clorobenceno;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.3-Diclorobenceno=m-Diclorobenceno;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.4-Diclorobenceno=p-Diclorobenceno;-;<;0.5;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.2-Diclorobenceno=o-Diclorobenceno;-;<;500;ng/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);Cloruro de vinilo;-;<;0.1;µg/l;;-;-;0
+CT05;23/03/2022;11:10;SONDEOS;Aguas (Fisicoquímica);1.1 Dicloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Calcio;-;=;170;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Potasio;-;=;2.3;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Cloruros;-;=;53;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Sulfatos;-;=;440;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Carbonatos;-;<;1.2;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Bicarbonatos;-;=;199;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Nitrato;-;=;2.1;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Nitrito;-;<;0.02;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Amonio;-;<;0.065;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Aluminio;-;<;0.01;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Hierro;-;=;0.023;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Manganeso;-;=;0.049;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Zinc;-;=;70;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Ortofosfato;-;=;0.036;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Cobre;-;=;3.3;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Arsénico;-;=;0.55;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Cadmio;-;<;0.25;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Cianuros totales;-;<;5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Cromo;-;<;1;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Mercurio;-;<;0.1;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Níquel;-;<;1;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Plomo;-;<;1;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Fenoles;-;<;0.02;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Carbono orgánico total;-;<;1;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Triclorometano (cloroformo);-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Bromodiclorometano;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Dibromoclorometano;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Bromoformo-Tribromometano;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);1.1 Dicloroeteno;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Trans-1.2 Dicloroeteno;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Cis-1.2 Dicloroeteno;-;=;38.7;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Tricloroetileno;-;=;7;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Tetracloroetileno (percloroetileno);-;=;12.7;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);1.1.2.2 Tetracloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);1.1.2 Tricloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);1.1.1-Tricloroetano-Metilcloroformo;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);1.2-Dicloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Diclorometano;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Tetracloruro de carbono;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);1.2 Dicloropropano;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Cis-1.3 Dicloropropeno;-;<;0.1;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Trans-1.3 Dicloropropeno;-;<;0.1;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Clorobenceno;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);1.3-Diclorobenceno=m-Diclorobenceno;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);1.4-Diclorobenceno=p-Diclorobenceno;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);1.2-Diclorobenceno=o-Diclorobenceno;-;<;500;ng/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Cloruro de vinilo;-;=;0.2;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);1.1 Dicloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Temperatura del agua;-;=;16.2;ºC;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);pH;-;=;7.4;U. pH.;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Conductividad;-;=;1192;µS/cm;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Oxígeno disuelto;-;=;19;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Residuo seco;-;=;940;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Sodio;-;=;44;mg/l;;-;-;0
+CT05;20/01/2022;13:15;SONDEOS;Aguas (Fisicoquímica);Magnesio;-;=;44;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Tetracloruro de carbono;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);1.2 Dicloropropano;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Cis-1.3 Dicloropropeno;-;<;0.1;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Trans-1.3 Dicloropropeno;-;<;0.1;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Clorobenceno;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);1.3-Diclorobenceno=m-Diclorobenceno;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);1.4-Diclorobenceno=p-Diclorobenceno;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);1.2-Diclorobenceno=o-Diclorobenceno;-;<;500;ng/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Cloruro de vinilo;-;=;1.7;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);1.1 Dicloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Temperatura del agua;-;=;16.4;ºC;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);pH;-;=;7.5;U. pH.;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Conductividad;-;=;1130;µS/cm;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Oxígeno disuelto;-;=;25.2;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Residuo seco;-;=;1000;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Sodio;-;=;47;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Potasio;-;=;5.5;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Calcio;-;=;180;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Magnesio;-;=;46;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Cloruros;-;=;52;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Sulfatos;-;=;500;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Carbonatos;-;<;1.2;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Bicarbonatos;-;=;200;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Nitrato;-;=;2.9;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Nitrito;-;<;0.02;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Amonio;-;<;0.065;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Aluminio;-;<;0.01;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Hierro;-;=;0.018;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Manganeso;-;=;0.08;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Zinc;-;=;31;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Ortofosfato;-;=;0.036;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Cobre;-;<;1;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Arsénico;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Cadmio;-;<;0.25;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Cianuros totales;-;<;5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Cromo;-;<;1;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Mercurio;-;<;0.1;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Níquel;-;<;1;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Plomo;-;<;1;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Fenoles;-;<;0.02;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Carbono orgánico total;-;<;1;mg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Triclorometano (cloroformo);-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Bromodiclorometano;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Dibromoclorometano;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Bromoformo-Tribromometano;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);1.1 Dicloroeteno;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Trans-1.2 Dicloroeteno;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Cis-1.2 Dicloroeteno;-;=;41;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Tricloroetileno;-;=;6;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Tetracloroetileno (percloroetileno);-;=;15.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);1.1.2.2 Tetracloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);1.1.2 Tricloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);1.1.1-Tricloroetano-Metilcloroformo;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);1.2-Dicloroetano;-;<;0.5;µg/l;;-;-;0
+CT05;15/02/2022;14:00;SONDEOS;Aguas (Fisicoquímica);Diclorometano;-;<;0.5;µg/l;;-;-;0

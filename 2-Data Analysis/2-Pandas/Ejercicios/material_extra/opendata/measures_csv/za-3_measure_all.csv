@@ -1,0 +1,8 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Quality;Situation;Level;Depth
+ZA-3;03/03/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Amonio;-;<;0.064;mg/l;;-;-;0
+ZA-3;03/03/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Nitrito;-;<;0.02;mg/l;;-;-;0
+ZA-3;03/03/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Nitrato;-;=;120;mg/l;;-;-;0
+ZA-3;03/03/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Ortofosfato;-;=;0.18;mg/l;;-;-;0
+ZA-3;03/03/2022;08:55;SONDEOS;Aguas (Fisicoquímica);pH;-;=;7.4;U. pH.;;-;-;0
+ZA-3;03/03/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Temperatura del agua;-;=;12;ºC;;-;-;0
+ZA-3;03/03/2022;08:55;SONDEOS;Aguas (Fisicoquímica);Conductividad;-;=;884;µS/cm;;-;-;0
