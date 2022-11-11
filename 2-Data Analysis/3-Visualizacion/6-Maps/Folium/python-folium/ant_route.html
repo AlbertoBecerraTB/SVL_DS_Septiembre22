@@ -25,7 +25,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_93cd716b40d7ebca3b1f5a6bfb30a485 {
+                #map_8a5a80effe3bf206a06bba03baef9570 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -34,22 +34,23 @@
                 }
             </style>
         
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-ant-path@1.1.2/dist/leaflet-ant-path.min.js"></script>
 </head>
 <body>
     
     
-            <div class="folium-map" id="map_93cd716b40d7ebca3b1f5a6bfb30a485" ></div>
+            <div class="folium-map" id="map_8a5a80effe3bf206a06bba03baef9570" ></div>
         
 </body>
 <script>
     
     
-            var map_93cd716b40d7ebca3b1f5a6bfb30a485 = L.map(
-                "map_93cd716b40d7ebca3b1f5a6bfb30a485",
+            var map_8a5a80effe3bf206a06bba03baef9570 = L.map(
+                "map_8a5a80effe3bf206a06bba03baef9570",
                 {
-                    center: [39.739192, -104.990337],
+                    center: [38.0, -98.0],
                     crs: L.CRS.EPSG3857,
-                    zoom: 8,
+                    zoom: 4,
                     zoomControl: true,
                     preferCanvas: false,
                 }
@@ -59,10 +60,16 @@
 
         
     
-            var tile_layer_03c25662f72a80452cf3ae63437fe78c = L.tileLayer(
+            var tile_layer_517b1e918d52c878a175500a966ff463 = L.tileLayer(
                 "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_93cd716b40d7ebca3b1f5a6bfb30a485);
+            ).addTo(map_8a5a80effe3bf206a06bba03baef9570);
+        
+    
+            ant_path_f931b4e15cb0a4bd89914028b4349217 = L.polyline.antPath(
+              [[34.041008, -118.246653], [36.169726, -115.143996], [39.739448, -104.99245], [41.878765, -87.643267], [40.782949, -73.969559]],
+              {"bubblingMouseEvents": true, "color": "#0000FF", "dashArray": [10, 20], "dashOffset": null, "delay": 400, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "hardwareAcceleration": false, "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.5, "paused": false, "pulseColor": "#FFFFFF", "reverse": false, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+        ).addTo(map_8a5a80effe3bf206a06bba03baef9570);
         
 </script>
 </html>
