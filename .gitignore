@@ -1,32 +1,9 @@
 .ipynb_checkpoints
 __pycache__
 
-
-############# 1- Ramp-Up #############
-# 1-Ramp Up/1-Python/0-Markdown
-# 1-Ramp Up/1-Python/3-Colecciones
-# 1-Ramp Up/1-Python/4-Funciones
-# 1-Ramp Up/1-Python/5-OOP
-# 1-Ramp Up/1-Python/6-Modulos
-# 1-Ramp Up/1-Python/7-Programacion funcional
-# 1-Ramp Up/1-Python/ejercicios
-# 1-Ramp Up/1-Python/examen
-1-Ramp Up/1-Python/material_extra
-1-Ramp Up/SVL_marzo_examen_rampup
-
 ############# 2- Data Analysis #############
-# 2-Data Analysis/0-Matematicas para Data Science
-## Pandas
-# 2-Data Analysis/2-Pandas
-
-# 2-Data Analysis/3-Visualizacion
-# 2-Data Analysis/3-Visualizacion/2-Seaborn
-# 2-Data Analysis/3-Visualizacion/3-Plotly
 2-Data Analysis/3-Visualizacion/5-Business Intelligence
-# 2-Data Analysis/3-Visualizacion/6-Maps
-2-Data Analysis/3-Visualizacion/material_extra
 
-# 2-Data Analysis/4-Feature Engineering!!!
 2-Data Analysis/4-Feature Engineering!!!/1-Numerical Features
 2-Data Analysis/4-Feature Engineering!!!/2-Categorical Features
 2-Data Analysis/4-Feature Engineering!!!/Categóricas
@@ -38,20 +15,16 @@ __pycache__
 2-Data Analysis/4-Feature Engineering!!!/fcc_2016_coder_survey_subset.csv
 
 
-# 2-Data Analysis/5-Data Sources
-# 2-Data Analysis/5-Data Sources/Web
-# 2-Data Analysis/5-Data Sources/Web/Taller web
-
-# 2-Data Analysis/5-Data Sources/API_REST_Python.ipynb
-# 2-Data Analysis/5-Data Sources/PROF_API_REST_Python.ipynb
-
-
-
-# 2-Data Analysis/6-SQL!!!
-2-Data Analysis/6-SQL!!!_orig
-# 2-Data Analysis/Proyecto-EDA
-# 2-Data Analysis/Proyecto-HLF
-# 2-Data Analysis/sql_thebridge
-2-Data Analysis/4-Feature Engineering!!!/4-Text/RegEx/Ejercicios/regex-exercises copy.ipynb
-
-3-Machine Learning
+# 3-Machine Learning
+3-Machine Learning/1-Supervisado
+3-Machine Learning/2-No supervisado
+3-Machine Learning/3-Time Series
+3-Machine Learning/4-Deep Learning
+3-Machine Learning/5-NLP
+3-Machine Learning/6-Reinforcement Learning
+3-Machine Learning/E2E notebooks
+3-Machine Learning/entregas
+3-Machine Learning/FEATURE SELECTION
+3-Machine Learning/Kaggle
+3-Machine Learning/MLFlow
+3-Machine Learning/proyecto_ML
