@@ -4,19 +4,18 @@ __pycache__
 ############# 2- Data Analysis #############
 2-Data Analysis/3-Visualizacion/5-Business Intelligence
 
-2-Data Analysis/4-Feature Engineering!!!/1-Numerical Features
-2-Data Analysis/4-Feature Engineering!!!/2-Categorical Features
-2-Data Analysis/4-Feature Engineering!!!/Categóricas
-2-Data Analysis/4-Feature Engineering!!!/ClaseSEP-FT
-2-Data Analysis/4-Feature Engineering!!!/1_Numerical_Features.ipynb
-2-Data Analysis/4-Feature Engineering!!!/2_CategoricalData.ipynb
-2-Data Analysis/4-Feature Engineering!!!/4_TextData.ipynb
-2-Data Analysis/4-Feature Engineering!!!/Estandarizar_escalar.pptx
-2-Data Analysis/4-Feature Engineering!!!/fcc_2016_coder_survey_subset.csv
-
 
 # 3-Machine Learning
-3-Machine Learning/1-Supervisado
+# 3-Machine Learning/1-Supervisado
+# 3-Machine Learning/1-Supervisado/2-Logistic Regression
+# 3-Machine Learning/1-Supervisado/3-Regularizacion
+3-Machine Learning/1-Supervisado/4-Decision Trees
+# 3-Machine Learning/1-Supervisado/6-SVM
+3-Machine Learning/1-Supervisado/7-Ensemble
+3-Machine Learning/1-Supervisado/8-GridSearch & Pipelines
+3-Machine Learning/1-Supervisado/9-ML Guide
+3-Machine Learning/1-Supervisado/material_extra
+
 3-Machine Learning/2-No supervisado
 3-Machine Learning/3-Time Series
 3-Machine Learning/4-Deep Learning
@@ -25,6 +24,6 @@ __pycache__
 3-Machine Learning/E2E notebooks
 3-Machine Learning/entregas
 3-Machine Learning/FEATURE SELECTION
-3-Machine Learning/Kaggle
+# 3-Machine Learning/Kaggle
 3-Machine Learning/MLFlow
 3-Machine Learning/proyecto_ML
