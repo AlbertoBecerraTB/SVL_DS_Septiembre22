@@ -1,0 +1,8 @@
+Descargar para Windows desde:
+https://filezilla-project.org/download.php?platform=win64
+
+Tutorial Youtube
+https://www.youtube.com/watch?v=yQvng5ooBv0
+
+Documentación Oficial
+https://wiki.filezilla-project.org/Using
