@@ -1,0 +1,5 @@
+Explicación estructura Spark
+
+http://ashkrit.blogspot.com/2018/09/anatomy-of-apache-spark-job.html
+
+https://luminousmen.com/post/spark-partitions
